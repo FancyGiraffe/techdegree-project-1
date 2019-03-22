@@ -23,12 +23,12 @@ var quotes = [
   },
 
   {
-    quote: 'Age is of no importance unless you’re a cheese.';
+    quote: 'Age is of no importance unless you’re a cheese.',
     source: 'Billie Burke',
   },
 
   {
-    quote: "A cheese may disappoint. It may be dull, it may be naive, it may be oversophisticated. Yet it remains cheese, milk's leap toward immortality.",
+    quote: "A cheese may disappoint. Yet it remains cheese, milk's leap toward immortality.",
     source: 'Clifton Fadiman',
     citation:'Any Number Can Play',
   },
@@ -40,7 +40,7 @@ var quotes = [
 
   {
     quote: 'What happens to the hole when the cheese is gone?',
-    source: 'source5',
+    source: 'Bertolt Brecht',
   },
 
 ];
